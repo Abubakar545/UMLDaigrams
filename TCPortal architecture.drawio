@@ -1,9 +1,58 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="Page-1" id="mLPwHagdoo2V4upbx6Zc">
-    <mxGraphModel>
+    <mxGraphModel dx="1506" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-1" value="Functional Components" style="whiteSpace=wrap;strokeWidth=2;fillColor=#09555B;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="20" y="198" width="1223" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-2" value="Core Database Layer" style="whiteSpace=wrap;strokeWidth=2;fillColor=#09555B;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="145" y="20" width="971" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-3" value="Database Connection Management&#xa;Hibernate" style="whiteSpace=wrap;strokeWidth=2;fillColor=#09555B;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="520" y="45" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-4" value="Search Engine&#xa;Case-insensitive DB Search" style="whiteSpace=wrap;strokeWidth=2;fillColor=#09555B;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="55" y="223" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-5" value="Report Generator&#xa;Apache POI" style="whiteSpace=wrap;strokeWidth=2;fillColor=#09555B;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="365" y="223" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-6" value="RTC Integration&#xa;Work Item Management" style="whiteSpace=wrap;strokeWidth=2;fillColor=#09555B;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="675" y="223" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-7" value="Logging System&#xa;Log4j" style="whiteSpace=wrap;strokeWidth=2;fillColor=#09555B;strokeColor=#BAC8D3;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="985" y="235" width="223" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="ZCwIWHH5CcVhiUoMEWeF-3" target="ZCwIWHH5CcVhiUoMEWeF-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="ZCwIWHH5CcVhiUoMEWeF-3" target="ZCwIWHH5CcVhiUoMEWeF-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="ZCwIWHH5CcVhiUoMEWeF-3" target="ZCwIWHH5CcVhiUoMEWeF-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="805" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCwIWHH5CcVhiUoMEWeF-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;rounded=0;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="ZCwIWHH5CcVhiUoMEWeF-3" target="ZCwIWHH5CcVhiUoMEWeF-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1096" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
