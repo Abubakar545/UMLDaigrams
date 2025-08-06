@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9tK4x2b667_dypUiwHpl-6" value="VFT List Management:" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="496" width="210" height="182" as="geometry" />
+          <mxGeometry x="630" y="300" width="210" height="182" as="geometry" />
         </mxCell>
         <mxCell id="9tK4x2b667_dypUiwHpl-8" value="[View VFT List]           (V1)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9tK4x2b667_dypUiwHpl-6">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry y="156" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9tK4x2b667_dypUiwHpl-14" value="VFT Assignment Management:" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="354" width="210" height="104" as="geometry" />
+          <mxGeometry x="630" y="520" width="210" height="104" as="geometry" />
         </mxCell>
         <mxCell id="9tK4x2b667_dypUiwHpl-16" value="[Create Assignment]       (A1)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9tK4x2b667_dypUiwHpl-14">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry y="78" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9tK4x2b667_dypUiwHpl-19" value="Assignment Approval Panel:" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="710" width="210" height="78" as="geometry" />
+          <mxGeometry x="630" y="680" width="210" height="78" as="geometry" />
         </mxCell>
         <mxCell id="9tK4x2b667_dypUiwHpl-21" value="[Review Assignment Requests] (AP1)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9tK4x2b667_dypUiwHpl-19">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
