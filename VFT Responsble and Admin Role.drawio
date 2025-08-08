@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="QZUfZD405yA-LEJdmu-g">
-    <mxGraphModel dx="2393" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3795" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
         <mxCell id="MXLNrHlSr9Uq1XD_Xu4V-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9tK4x2b667_dypUiwHpl-98" target="MXLNrHlSr9Uq1XD_Xu4V-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-130" y="385" />
+              <mxPoint x="-140" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MXLNrHlSr9Uq1XD_Xu4V-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;VFT Assignment Management&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-480" y="490" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-61" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MXLNrHlSr9Uq1XD_Xu4V-8" target="xVE2w1B-XL7oOSJcQJmJ-60">
           <mxGeometry relative="1" as="geometry" />
@@ -123,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MXLNrHlSr9Uq1XD_Xu4V-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;VFT List&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-51" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MXLNrHlSr9Uq1XD_Xu4V-10" target="xVE2w1B-XL7oOSJcQJmJ-50">
           <mxGeometry relative="1" as="geometry" />
@@ -135,7 +135,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MXLNrHlSr9Uq1XD_Xu4V-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;VFT Assignment Approval (RG manager / Admin)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="480" width="140" height="60" as="geometry" />
+          <mxGeometry x="50" y="490" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-87" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MXLNrHlSr9Uq1XD_Xu4V-16" target="xVE2w1B-XL7oOSJcQJmJ-86">
           <mxGeometry relative="1" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MXLNrHlSr9Uq1XD_Xu4V-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;VFT Assignment Approval Panel (Admin / RG Manager)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="490" width="170" height="60" as="geometry" />
+          <mxGeometry x="880" y="490" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-100" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="MXLNrHlSr9Uq1XD_Xu4V-20" target="xVE2w1B-XL7oOSJcQJmJ-99">
           <mxGeometry relative="1" as="geometry" />
@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MXLNrHlSr9Uq1XD_Xu4V-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;VFT Assignment&amp;nbsp; Managerment&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="490" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Edit VFT&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="650" width="120" height="60" as="geometry" />
@@ -206,10 +206,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-50" value="&lt;br&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Approve Assignment&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-53" value="&lt;br&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 16px;&quot;&gt;Reject Assignment&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Create VFT&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="780" width="120" height="60" as="geometry" />
@@ -224,10 +224,10 @@
           <mxGeometry x="-40" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-72" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(236, 236, 236); float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(236, 236, 236); float: none; display: inline !important;&quot;&gt;Approve Assignment&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-77" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 16px;&quot;&gt;Reject Assignment&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(0, 0, 0); background-color: rgb(236, 236, 236);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVE2w1B-XL7oOSJcQJmJ-86" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Create VFT&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="770" width="140" height="70" as="geometry" />
